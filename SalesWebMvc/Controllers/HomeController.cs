@@ -15,6 +15,7 @@ namespace SalesWebMvc.Controllers
             return View();
         }
 
+        [Route("teste")]
         public IActionResult About()
         {
             ViewData["Message"] = "Salles Web MVC App from CSharp Course.";
