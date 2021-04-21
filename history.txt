@@ -79,3 +79,111 @@
    79  git push
    80  git status
    81  history >> history.txt
+    1  GIT
+    2  git init
+    3  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+    4  git pull origin master
+    5  git pull origin master
+    6  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+    7  git pull origin master
+    8  git pull origin master
+    9  git pull
+   10  git pull origin master
+   11  git pull origin SalesWebMvc
+   12  git pull origin DownloadManager
+   13  git pull origin downloadmanager:DownloadManager
+   14  git pull origin master
+   15  git remote pull origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   16  git remote pull origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   17  git pull origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   18  git pull origin master
+   19  git status
+   20  git add
+   21  git add .
+   22  git status
+   23  git commit -m
+   24  git commit
+   25  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   26  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   27  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   28  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   29  exit
+   30  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   31  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   32  git push -u origin master
+   33  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   34  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   35  git remote add origin https://github.com/JeffersonDelfino/SalesWebMvc.git
+   36  git push -u origin master
+   37  git commit
+   38  git status
+   39  git add .
+   40  git status
+   41  git status
+   42  git add .
+   43  git commit -m "First controller and Razor page tests"
+   44  git status
+   45  git push
+   46  git status
+   47  git add .
+   48  git commit -m "First Model-Controller-View - Department"
+   49  git push
+   50  git push
+   51  git push
+   52  git status
+   53  git status
+   54  git add .
+   55  git commit -m "Deleting Department View and Controller"
+   56  git push
+   57  git status
+   58  git add .
+   59  git commit -m "CRUD Scaffolding"
+   60  git push
+   61  git status
+   62  git add .
+   63  git commit -m "Update Provider do MySql"
+   64  git push
+   65  git status
+   66  git status
+   67  git add .
+   68  git commit -m "MySQL adaptation and first migration"
+   69  git push
+   70  git status
+   71  git add .
+   72  git commit -m "Changing theme"
+   73  git push
+   74  git push
+   75  git status
+   76  git status
+   77  git add .
+   78  git commit -m "Other entities and second migration"
+   79  git push
+   80  git status
+   81  history >> history.txt
+   82  git status
+   83  git add .
+   84  git commit
+   85  git push
+   86  git status
+   87  git add .
+   88  git commit -m "Seeding Service"
+   89  git push
+   90  git push
+   91  git status
+   92  git add .
+   93  git commit -m "Sellers Controller"
+   94  git push
+   95  git status
+   96  git add .
+   97  git commit -m "SellerService and basic FindAll"
+   98  git push
+   99  git status
+  100  git add .
+  101  git commit -m "Simple Create form"
+  102  git push
+  103  git status
+  104  git add .
+  105  git commit -m "Foreign key not null (referential integrity)"
+  106  git push
+  107  git status
+  108  history >> history.txt
