@@ -1,6 +1,6 @@
-﻿using System;
+﻿using SalesWebMvc.Models.Enums;
+using System;
 using System.ComponentModel.DataAnnotations;
-using SalesWebMvc.Models.Enums;
 
 namespace SalesWebMvc.Models
 {
